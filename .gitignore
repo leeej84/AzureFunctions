@@ -1,0 +1,6 @@
+.vscode
+*.tfstate
+*.tfstate.backup
+providers
+terraform.exe
+*.lock.hcl
